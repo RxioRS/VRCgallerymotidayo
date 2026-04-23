@@ -1,2 +1,0 @@
-# VRCgallerymotidayo
-VRChatの写真を展示する個人用サイト
